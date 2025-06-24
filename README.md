@@ -9,7 +9,7 @@ The Airbnb Clone Project is a comprehensive, real-world application designed to 
 - Strengthen ability to document and plan complex software projects effectively.
 - Develop an understanding of integrating technologies like Django, MySQL, and GraphQL in a unified ecosystem.
 
-## Tech Stack
+## Technology Stack
 - Django: A high-level Python web framework used for building the RESTful API.
 - Django REST Framework: Provides tools for creating and managing RESTful APIs.
 - PostgreSQL: A powerful relational database used for data storage.
